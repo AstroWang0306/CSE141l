@@ -83,4 +83,3 @@ with open('program.s') as ifile, open('output.hex', 'w') as imem, open('gtkwave/
     #while TOTAL_IMEM_SIZE:
     #    imem.write('xxxxxxxxx\n')
     #    TOTAL_IMEM_SIZE -= 1
-
