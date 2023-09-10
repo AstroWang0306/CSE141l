@@ -1,4 +1,4 @@
-// Module Name:    DataMem
+// Module Name:    DatMem
 
 module DataMem (
   input               Clk,
