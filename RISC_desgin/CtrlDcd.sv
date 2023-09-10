@@ -1,4 +1,4 @@
-// Module Name:     Ctrl 
+// Module Name:     CtrlDcd
 
 import definitions::*;
 
