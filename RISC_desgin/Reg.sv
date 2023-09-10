@@ -1,4 +1,4 @@
-// Module Name:    RegFile
+// Module Name:    Reg
 
 module RegFile (		  
   input                Reset    ,
